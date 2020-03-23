@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mani21na/npm-lab-online-web-ft-110419/issues"
   },
-  "homepage": "https://github.com/mani21na/npm-lab-online-web-ft-110419#readme"
+  "homepage": "https://github.com/mani21na/npm-lab-online-web-ft-110419#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
